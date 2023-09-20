@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B7F876CA-F698-4CC5-AB4A-5B129C22BCC1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE9AA31F-8A84-4263-A1DE-9F013178EB8E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GCDexample/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "FE9AA31F-8A84-4263-A1DE-9F013178EB8E - 48dd73bb9e2ae765"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "GCDexample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mirjigit/Swift/Geeks/GCDexample/GCDexample/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "1852">
+               </Location>
+               <Location
+                  uuid = "FE9AA31F-8A84-4263-A1DE-9F013178EB8E - 48dd73bb9e2ae7ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "GCDexample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mirjigit/Swift/Geeks/GCDexample/GCDexample/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "1644">
+               </Location>
+               <Location
+                  uuid = "FE9AA31F-8A84-4263-A1DE-9F013178EB8E - 895b4b77c087d6ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 () -&gt; () in GCDexample"
+                  moduleName = "GCDexample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mirjigit/Swift/Geeks/GCDexample/GCDexample/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "FE9AA31F-8A84-4263-A1DE-9F013178EB8E - 48dd73bb9e2ae7ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "GCDexample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mirjigit/Swift/Geeks/GCDexample/GCDexample/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "1656">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2C12F1F9-ED62-420E-9792-B73E5E058162"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GCDexample/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "2C12F1F9-ED62-420E-9792-B73E5E058162 - 48dd73bb9e2ae5f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "GCDexample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mirjigit/Swift/Geeks/GCDexample/GCDexample/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "1024">
+               </Location>
+               <Location
+                  uuid = "2C12F1F9-ED62-420E-9792-B73E5E058162 - a53d4c7e5600701b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in GCDexample"
+                  moduleName = "GCDexample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mirjigit/Swift/Geeks/GCDexample/GCDexample/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "2C12F1F9-ED62-420E-9792-B73E5E058162 - a53d4c7e5600701b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in GCDexample"
+                  moduleName = "GCDexample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mirjigit/Swift/Geeks/GCDexample/GCDexample/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "2C12F1F9-ED62-420E-9792-B73E5E058162 - a53d4c7e5600701b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in GCDexample"
+                  moduleName = "GCDexample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mirjigit/Swift/Geeks/GCDexample/GCDexample/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "2C12F1F9-ED62-420E-9792-B73E5E058162 - a53d4c7e5600701b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in GCDexample"
+                  moduleName = "GCDexample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mirjigit/Swift/Geeks/GCDexample/GCDexample/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "2C12F1F9-ED62-420E-9792-B73E5E058162 - 48dd73bb9e2ae5f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "GCDexample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mirjigit/Swift/Geeks/GCDexample/GCDexample/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "736">
+               </Location>
+               <Location
+                  uuid = "2C12F1F9-ED62-420E-9792-B73E5E058162 - 48dd73bb9e2ae5f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "GCDexample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mirjigit/Swift/Geeks/GCDexample/GCDexample/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "1000">
+               </Location>
+               <Location
+                  uuid = "2C12F1F9-ED62-420E-9792-B73E5E058162 - 48dd73bb9e2ae2c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "GCDexample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mirjigit/Swift/Geeks/GCDexample/GCDexample/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "924">
+               </Location>
+               <Location
+                  uuid = "2C12F1F9-ED62-420E-9792-B73E5E058162 - a53d4c7e56007761"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in GCDexample"
+                  moduleName = "GCDexample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mirjigit/Swift/Geeks/GCDexample/GCDexample/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "2C12F1F9-ED62-420E-9792-B73E5E058162 - 48dd73bb9e2ae2c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "GCDexample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mirjigit/Swift/Geeks/GCDexample/GCDexample/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "920">
+               </Location>
+               <Location
+                  uuid = "2C12F1F9-ED62-420E-9792-B73E5E058162 - 48dd73bb9e2ae2c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "GCDexample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mirjigit/Swift/Geeks/GCDexample/GCDexample/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "936">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D885F144-0EE5-4BBC-91CF-5FFDEA9B624E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GCDexample/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "D885F144-0EE5-4BBC-91CF-5FFDEA9B624E - 48dd73bb9e2ae4b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "GCDexample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mirjigit/Swift/Geeks/GCDexample/GCDexample/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "1792">
+               </Location>
+               <Location
+                  uuid = "D885F144-0EE5-4BBC-91CF-5FFDEA9B624E - 895b4b77c087d5f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 () -&gt; () in GCDexample"
+                  moduleName = "GCDexample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mirjigit/Swift/Geeks/GCDexample/GCDexample/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "D885F144-0EE5-4BBC-91CF-5FFDEA9B624E - 48dd73bb9e2ae4d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "GCDexample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mirjigit/Swift/Geeks/GCDexample/GCDexample/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "1344">
+               </Location>
+               <Location
+                  uuid = "D885F144-0EE5-4BBC-91CF-5FFDEA9B624E - c578e9d58995f9a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in GCDexample"
+                  moduleName = "GCDexample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mirjigit/Swift/Geeks/GCDexample/GCDexample/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "D885F144-0EE5-4BBC-91CF-5FFDEA9B624E - 48dd73bb9e2ae4d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "GCDexample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mirjigit/Swift/Geeks/GCDexample/GCDexample/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "1300">
+               </Location>
+               <Location
+                  uuid = "D885F144-0EE5-4BBC-91CF-5FFDEA9B624E - 48dd73bb9e2ae5bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "GCDexample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mirjigit/Swift/Geeks/GCDexample/GCDexample/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "1216">
+               </Location>
+               <Location
+                  uuid = "D885F144-0EE5-4BBC-91CF-5FFDEA9B624E - c578e9d58995ef1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in GCDexample"
+                  moduleName = "GCDexample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mirjigit/Swift/Geeks/GCDexample/GCDexample/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "D885F144-0EE5-4BBC-91CF-5FFDEA9B624E - c578e9d58995ed0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in GCDexample"
+                  moduleName = "GCDexample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mirjigit/Swift/Geeks/GCDexample/GCDexample/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "D885F144-0EE5-4BBC-91CF-5FFDEA9B624E - 48dd73bb9e2ae5bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "GCDexample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mirjigit/Swift/Geeks/GCDexample/GCDexample/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "1220">
+               </Location>
+               <Location
+                  uuid = "D885F144-0EE5-4BBC-91CF-5FFDEA9B624E - c578e9d58995ed0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in GCDexample"
+                  moduleName = "GCDexample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mirjigit/Swift/Geeks/GCDexample/GCDexample/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "D885F144-0EE5-4BBC-91CF-5FFDEA9B624E - 48dd73bb9e2ae5bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "GCDexample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mirjigit/Swift/Geeks/GCDexample/GCDexample/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "1236">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "54ACA7EB-5D40-46B6-8D1F-A8C4B1FBC03B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GCDexample/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "54ACA7EB-5D40-46B6-8D1F-A8C4B1FBC03B - 4bd5e94a8490109f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; () in GCDexample"
+                  moduleName = "GCDexample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mirjigit/Swift/Geeks/GCDexample/GCDexample/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "54ACA7EB-5D40-46B6-8D1F-A8C4B1FBC03B - 48dd73bb9e2ae4d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "GCDexample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mirjigit/Swift/Geeks/GCDexample/GCDexample/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "1420">
+               </Location>
+               <Location
+                  uuid = "54ACA7EB-5D40-46B6-8D1F-A8C4B1FBC03B - 4bd5e94a849010fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; () in GCDexample"
+                  moduleName = "GCDexample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mirjigit/Swift/Geeks/GCDexample/GCDexample/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "54ACA7EB-5D40-46B6-8D1F-A8C4B1FBC03B - 48dd73bb9e2ae4d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "GCDexample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mirjigit/Swift/Geeks/GCDexample/GCDexample/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "1436">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "672F8F56-C179-4C95-9B86-CF0AD21D2EE2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GCDexample/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C23698C-A427-4CD1-8F4A-E39B5D3271A8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GCDexample/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "4C23698C-A427-4CD1-8F4A-E39B5D3271A8 - c578e9d58995ed0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in GCDexample"
+                  moduleName = "GCDexample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mirjigit/Swift/Geeks/GCDexample/GCDexample/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "4C23698C-A427-4CD1-8F4A-E39B5D3271A8 - c578e9d58995ed0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in GCDexample"
+                  moduleName = "GCDexample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mirjigit/Swift/Geeks/GCDexample/GCDexample/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9157822F-2DC3-4950-B2F8-55327CDA8103"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GCDexample/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "9157822F-2DC3-4950-B2F8-55327CDA8103 - 48dd73bb9e2ae46d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "GCDexample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mirjigit/Swift/Geeks/GCDexample/GCDexample/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "1644">
+               </Location>
+               <Location
+                  uuid = "9157822F-2DC3-4950-B2F8-55327CDA8103 - 4bd5e94a849010fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; () in GCDexample"
+                  moduleName = "GCDexample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mirjigit/Swift/Geeks/GCDexample/GCDexample/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "043456E2-D9C1-4572-90FA-C7C6107D83D3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GCDexample/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "043456E2-D9C1-4572-90FA-C7C6107D83D3 - 48dd73bb9e2ae765"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "GCDexample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mirjigit/Swift/Geeks/GCDexample/GCDexample/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "1852">
+               </Location>
+               <Location
+                  uuid = "043456E2-D9C1-4572-90FA-C7C6107D83D3 - 895b4b77c087d6ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 () -&gt; () in GCDexample"
+                  moduleName = "GCDexample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mirjigit/Swift/Geeks/GCDexample/GCDexample/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
